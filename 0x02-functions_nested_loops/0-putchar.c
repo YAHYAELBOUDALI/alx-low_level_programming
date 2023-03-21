@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * main - print _putchar
- * is written by mbah
- * return: 0
+ * main - Entry point
+ * return:Always 0
  */
 
 int main(void)
